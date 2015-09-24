@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kim Davis is Wrong, and Here is Why
+share_img: /images/kim_davis_mug.jpg
 ---
 We've all heard of Kim Davis by now. If not, just [read the news][1]. This issue has been pretty divisive, as most are of late, but this one really seemed to even divide Christians within the church. As a Conservative American Christian, let me give you a breakdown of why her actions were wrong, and why she was **not** jailed for her beliefs.
 
