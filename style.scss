@@ -81,6 +81,10 @@ iframe.twitter-share-button {
   vertical-align: bottom;
 }
 
+iframe.twitter-follow-button {
+  float: right;
+}
+
 #share-buttons {
 	height: 25px;
 }
@@ -224,7 +228,7 @@ img.centered {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 5px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
